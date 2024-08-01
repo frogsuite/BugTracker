@@ -1,10 +1,10 @@
-Mantis Bug Tracker (MantisBT)
+New FrogSuite BugTracker based on Mantis Bug Tracker (MantisBT)
 =============================
 
 [![Build Status](https://img.shields.io/travis/com/mantisbt/mantisbt/master?logo=travis)](https://app.travis-ci.com/mantisbt/mantisbt)
 [![Gitter](https://img.shields.io/gitter/room/mantisbt/mantisbt.svg?logo=gitter)](https://gitter.im/mantisbt/mantisbt)
 
-Screenshots
+Orginal MantisBT Screenshots
 -----------
 
 ![Screenshot of View Issues page](doc/modern_view_issues.png)
